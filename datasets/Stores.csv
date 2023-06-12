@@ -1,0 +1,11 @@
+Store_Id,Store_Establishment_Year,Store_Size,Store_Location_Type,Store_Type
+STR049,1999,Medium,Region 1,Mall Type1
+STR018,2009,Medium,Region 3,Mall Type2
+STR010,1998,,Region 3,Local Store
+STR013,1987,High,Region 3,Mall Type1
+STR027,1985,Medium,Region 3,Mall Type3
+STR045,2002,,Region 2,Mall Type1
+STR017,2007,,Region 2,Mall Type1
+STR046,1997,Small,Region 1,Mall Type1
+STR035,2004,Small,Region 2,Mall Type1
+STR019,1985,Small,Region 1,Local Store
